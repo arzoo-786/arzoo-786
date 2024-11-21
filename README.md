@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arzoo-786
 - 👀 I’m interested in web designing 
-- 🌱 I’m currently learning html&javascript
+- 🌱 I’m currently learning html&javascript and c,c++ coding language.
 - 💞️ I’m looking to collaborate on microsoft 
 - 📫 How to reach me er.arzoo99k@gmail.com
 - 😄 Pronouns: arzoo
